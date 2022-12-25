@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kaggle/Leaning-Equality-Memo/CodeTips.md",
+                "file": "Kaggle/Leaning-Equality-Memo/Kaggle-Learning-Equality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdae07ea92c90ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kaggle/Leaning-Equality-Memo/Kaggleで勝つデータ分析の技術Tips.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kaggle/Leaning-Equality-Memo/CodeTips.md",
+                "file": "Kaggle/Leaning-Equality-Memo/Kaggleで勝つデータ分析の技術Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kaggle/Leaning-Equality-Memo/CodeTips.md",
+                "file": "Kaggle/Leaning-Equality-Memo/Kaggleで勝つデータ分析の技術Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kaggle/Leaning-Equality-Memo/CodeTips.md"
+                "file": "Kaggle/Leaning-Equality-Memo/Kaggleで勝つデータ分析の技術Tips.md"
               }
             }
           },
@@ -168,9 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9394f2cbd3bd0b5",
+  "active": "90c89c96a01528da",
   "lastOpenFiles": [
     "Kaggle/Leaning-Equality-Memo/Kaggle-Learning-Equality.md",
+    "Kaggle/Leaning-Equality-Memo/CodeTips.md",
     "2022-12-25.md",
     "Untitled.canvas"
   ]

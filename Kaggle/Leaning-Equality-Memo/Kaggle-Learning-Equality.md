@@ -13,4 +13,4 @@ source: https://www.kaggle.com/code/jamiealexandre/tips-and-recommendations-from
 トピックやコンテンツにはタイトル・説明・テキスト文の3つ要素がある。タイトルはすべて持っているが、説明文・テキスト文は約半数のみが持っている。また文章量はバラバラであり、意味のある文章と意味のない文章も含まれている。これらの重み配分・情報の取捨選択が必要になってくる。
 
 ## Disregard `copyright_holder` for training purposes
-トレイニングデータには含まれているが、テストデータにはこの項目はない。したがって無視すること。
+トレイニングデータには含まれているが、テストデータにはこの項目はない。したがって無視すること。`license`も無視していい。
