@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kaggle-Learning-Equality.md",
+                "file": "Kaggle/Leaning-Equality-Memo/Kaggle-Learning-Equality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9394f2cbd3bd0b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kaggle/Leaning-Equality-Memo/CodeTips.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kaggle-Learning-Equality.md",
+                "file": "Kaggle/Leaning-Equality-Memo/CodeTips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kaggle-Learning-Equality.md",
+                "file": "Kaggle/Leaning-Equality-Memo/CodeTips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kaggle-Learning-Equality.md"
+                "file": "Kaggle/Leaning-Equality-Memo/CodeTips.md"
               }
             }
+          },
+          {
+            "id": "96adfc5ba3390df2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90c89c96a01528da",
+  "active": "b9394f2cbd3bd0b5",
   "lastOpenFiles": [
+    "Kaggle/Leaning-Equality-Memo/Kaggle-Learning-Equality.md",
     "2022-12-25.md",
-    "Untitled.canvas",
-    "Kaggle-Learning-Equality.md"
+    "Untitled.canvas"
   ]
 }
