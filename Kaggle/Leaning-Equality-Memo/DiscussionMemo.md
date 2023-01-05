@@ -1,0 +1,23 @@
+- [How did I get LB (Leader Board) 0.30+](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/discussion/373640)
+	- CV（クロスバリデーション）を使っている。
+		- LBスコアが~0.3, CVスコアが~0.4。
+		- 差があるのは
+	- トピックとコンテンツのタイトルのみをTransformerでエンベッドしているだけ。他の情報を使うと精度は悪化するため、タイトルだけ。
+	- KNNのみ。CumlのGPUで計算可能なモデルを使用。このステップでは比較的多めのコンテンツを取り出している。
+	- トピックに対して複数の候補コンテンツが取り出せた。このコンテンツとCorrelation.csvの結果を結合する。具体的にはcontent_idsの中に候補コンテンツが含まれている場合は1、それ以外は0とラベル付けする。
+	- これで現在、topic_id, topic_title, content_id, content_title, labelのカラムを持つデータが得られた。これに対して教師あり学習を適用、CVによってより良い閾値を決定することで最終的な出力を得ることができた。
+	- https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/discussion/373640#2072932
+		- 興味深いコメントが。「こんなことしなくても、普通にＥｍｂｅｄｄｉｎｇしたデータで学習させたらもっといいスコア出たけどな。」
+		- うその可能性が微レ存。
+- [### 10 Days In. What do we know so far?](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/discussion/373958)
+	- test環境で変わるのはcontent.csvとtopics.csvのみ。correlations.csvは変わらない。
+		- 学習用の入力データがcontent.csvとtopics.csv、ラベルデータがcorrelations.csvで与えれられる。テスト環境では入力データのみが水増しされ、ラベルデータは変わらない。そのまま提出したら精度が落ちそう。Correlationsにあるトピックのみを取り出して学習データを作成すれば、テスト環境とローカル環境で作成されるモデルは同じになるのでは？
+	- Multilingual modelsを使うのがスタンダードになるか。
+		- XLM-RoBERTaとか。https://huggingface.co/models?language=multilingual&sort=downloads
+	- CVは213tuboのやつが今のところよさげ？
+		- https://www.kaggle.com/code/tubotubo/lecr-tfidf-cvsplit
+	- 同じ名前のトピックとコンテンツがある。
+		- https://www.kaggle.com/code/takamichitoda/lecr-simple-unsupervised-baseline?scriptVersionId=114375844　ではある処理をすることでスコアが向上した。
+- テキストクリーニング
+	- https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/discussion/373832
+	- 詳細かつ多言語対応。よさげ。
