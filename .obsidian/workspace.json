@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ce32526e15d6248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Natural-Language-Processing-by-Deep-Learning/Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kaggle/Leaning-Equality-Memo/DiscussionMemo.md",
+                "file": "Learning/Natural-Language-Processing-by-Deep-Learning/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kaggle/Leaning-Equality-Memo/DiscussionMemo.md",
+                "file": "Learning/Natural-Language-Processing-by-Deep-Learning/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kaggle/Leaning-Equality-Memo/DiscussionMemo.md"
+                "file": "Learning/Natural-Language-Processing-by-Deep-Learning/Summary.md"
               }
             }
           },
@@ -155,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe8dbb5b10986b1e",
+  "active": "90c89c96a01528da",
   "lastOpenFiles": [
-    "Kaggle/Leaning-Equality-Memo/ZikkenMemo.md",
     "Kaggle/Leaning-Equality-Memo/DiscussionMemo.md",
+    "Kaggle/Leaning-Equality-Memo/ZikkenMemo.md",
     "Kaggle/Leaning-Equality-Memo/IdeaMemo.md",
     "Kaggle/Leaning-Equality-Memo/LearningMemo.md",
     "Kaggle/Leaning-Equality-Memo/CodeTips.md",
