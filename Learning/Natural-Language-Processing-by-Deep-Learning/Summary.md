@@ -1,9 +1,12 @@
-NOTE; This book was published at 2017, so some information are old.
+### NOTE; This book was published at 2017, so some information are old.
+
+url: https://www.amazon.co.jp/%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92%E3%81%AB%E3%82%88%E3%82%8B%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%83%95%E3%82%A7%E3%83%83%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%9D%AA%E4%BA%95-%E7%A5%90%E5%A4%AA/dp/4061529242
 
 # Introduction
 
 ## Traditional NLP
-**代表的なNLPタスクTasks**
+
+### 代表的なNLPタスクTasks
 - 文書分類、機械翻訳、文書要約、質問応答、対話などのタスクを行う。
 以下の処理に分類され、個別分野での最適化が行われてきた。
 - 品詞タグ付け、単語分割、語義曖昧性解消、固有表現抽出、構文解析、術後項構造認識
