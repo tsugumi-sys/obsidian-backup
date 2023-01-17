@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary.md",
+                "file": "Learning/Introduction-to-Machine-Learning-by-Bayesian-Inference/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Learning/Introduction-to-Machine-Learning-by-Bayesian-Inference/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
+                "file": "Learning/Introduction-to-Machine-Learning-by-Bayesian-Inference/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary.md"
+                "file": "Learning/Introduction-to-Machine-Learning-by-Bayesian-Inference/Summary.md"
               }
             }
           },
@@ -183,7 +183,7 @@
   "active": "d623877ab09eecc2",
   "lastOpenFiles": [
     "Learning/Natural-Language-Processing-by-Deep-Learning/Summary.md",
-    "Summary.md",
+    "Learning/Introduction-to-Machine-Learning-by-Bayesian-Inference/Summary.md",
     "Kaggle/Leaning-Equality-Memo/DiscussionMemo.md",
     "Kaggle/Leaning-Equality-Memo/ZikkenMemo.md",
     "Kaggle/Leaning-Equality-Memo/IdeaMemo.md",
