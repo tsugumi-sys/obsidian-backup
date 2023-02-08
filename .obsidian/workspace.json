@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25373e4a606d5aa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artifical Intelligence for the Earth Systems (AMS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Introduction-to-Machine-Learning-by-Bayesian-Inference/Summary.md",
+                "file": "Artifical Intelligence for the Earth Systems (AMS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Introduction-to-Machine-Learning-by-Bayesian-Inference/Summary.md",
+                "file": "Artifical Intelligence for the Earth Systems (AMS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Introduction-to-Machine-Learning-by-Bayesian-Inference/Summary.md"
+                "file": "Artifical Intelligence for the Earth Systems (AMS).md"
               }
             }
           },
@@ -180,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d623877ab09eecc2",
+  "active": "25373e4a606d5aa1",
   "lastOpenFiles": [
-    "Learning/Natural-Language-Processing-by-Deep-Learning/Summary.md",
     "Learning/Introduction-to-Machine-Learning-by-Bayesian-Inference/Summary.md",
+    "Learning/Natural-Language-Processing-by-Deep-Learning/Summary.md",
     "Kaggle/Leaning-Equality-Memo/DiscussionMemo.md",
     "Kaggle/Leaning-Equality-Memo/ZikkenMemo.md",
     "Kaggle/Leaning-Equality-Memo/IdeaMemo.md",
