@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artifical Intelligence for the Earth Systems (AMS).md",
+                "file": "JournalSubmit/Artifical Intelligence for the Earth Systems (AMS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a91a1f23fbf065b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/推論システム実践入門, OPEILLY, 2022/Summary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artifical Intelligence for the Earth Systems (AMS).md",
+                "file": "Learning/推論システム実践入門, OPEILLY, 2022/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artifical Intelligence for the Earth Systems (AMS).md",
+                "file": "Learning/推論システム実践入門, OPEILLY, 2022/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artifical Intelligence for the Earth Systems (AMS).md"
+                "file": "Learning/推論システム実践入門, OPEILLY, 2022/Summary.md"
               }
             }
           },
@@ -192,8 +204,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25373e4a606d5aa1",
+  "active": "90c89c96a01528da",
   "lastOpenFiles": [
+    "JournalSubmit/Artifical Intelligence for the Earth Systems (AMS).md",
     "Learning/Introduction-to-Machine-Learning-by-Bayesian-Inference/Summary.md",
     "Learning/Natural-Language-Processing-by-Deep-Learning/Summary.md",
     "Kaggle/Leaning-Equality-Memo/DiscussionMemo.md",
@@ -202,7 +215,6 @@
     "Kaggle/Leaning-Equality-Memo/LearningMemo.md",
     "Kaggle/Leaning-Equality-Memo/CodeTips.md",
     "Kaggle/Leaning-Equality-Memo/Kaggle-Learning-Equality.md",
-    "Kaggle/Leaning-Equality-Memo/Kaggleで勝つデータ分析の技術Tips.md",
-    "2022-12-25.md"
+    "Kaggle/Leaning-Equality-Memo/Kaggleで勝つデータ分析の技術Tips.md"
   ]
 }
